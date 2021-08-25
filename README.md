@@ -11,3 +11,4 @@ Introdução ao Back-end;
 ### Módulo 21
 Funções SQL, Joins e Subqueries
 * Funções mais usadas no SQL
+* Descomplicando JOINs, UNIONs e Subqueries
