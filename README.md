@@ -12,3 +12,4 @@ Introdução ao Back-end;
 Funções SQL, Joins e Subqueries
 * Funções mais usadas no SQL
 * Descomplicando JOINs, UNIONs e Subqueries
+* Stored Routines & Stored Functions
